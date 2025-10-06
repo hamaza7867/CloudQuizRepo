@@ -1,0 +1,1 @@
+Cloud Service Models:\n- IaaS: Infrastructure as a Service...\n\nCloud Deployment Models:\n- Public: Cloud services offered over the public internet...\n
